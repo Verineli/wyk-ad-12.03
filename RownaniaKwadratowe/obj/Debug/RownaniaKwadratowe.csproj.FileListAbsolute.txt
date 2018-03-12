@@ -1,0 +1,7 @@
+E:\mgrI\IP\git\RownaniaKwadratowe\RownaniaKwadratowe\bin\Debug\RownaniaKwadratowe.exe.config
+E:\mgrI\IP\git\RownaniaKwadratowe\RownaniaKwadratowe\bin\Debug\RownaniaKwadratowe.exe
+E:\mgrI\IP\git\RownaniaKwadratowe\RownaniaKwadratowe\bin\Debug\RownaniaKwadratowe.pdb
+E:\mgrI\IP\git\RownaniaKwadratowe\RownaniaKwadratowe\obj\Debug\RownaniaKwadratowe.csprojResolveAssemblyReference.cache
+E:\mgrI\IP\git\RownaniaKwadratowe\RownaniaKwadratowe\obj\Debug\RownaniaKwadratowe.csproj.CoreCompileInputs.cache
+E:\mgrI\IP\git\RownaniaKwadratowe\RownaniaKwadratowe\obj\Debug\RownaniaKwadratowe.exe
+E:\mgrI\IP\git\RownaniaKwadratowe\RownaniaKwadratowe\obj\Debug\RownaniaKwadratowe.pdb
