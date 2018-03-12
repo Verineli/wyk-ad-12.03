@@ -16,7 +16,11 @@ namespace RownaniaKwadratowe
             c = -10;
             x1 = 0;x2 = 0;
             double delta = b * b - 4 * a * c;
-            if (delta >= 0)
+            if (a == 0)
+            {
+                    Console.WriteLine("cos");
+            }
+            else if (delta >= 0)
             {
                 x1 = (-b - Math.Sqrt(delta)) / 2 * a;
                 x2 = (-b + Math.Sqrt(delta)) / 2 * a;
